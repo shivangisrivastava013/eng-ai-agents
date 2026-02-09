@@ -1,3 +1,7 @@
+Nmae: Shivangi Srivastava
+UCID: ss5554
+
+
 Assignment Submission Artifacts
 
 The assignment folder contains all required materials for submission, including both development environment proof and the low-rank Gaussian covariance work.
