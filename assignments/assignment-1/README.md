@@ -1,4 +1,4 @@
-Nmae: Shivangi Srivastava
+Name: Shivangi Srivastava
 UCID: ss5554
 
 
