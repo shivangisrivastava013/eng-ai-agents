@@ -3,3 +3,5 @@ This is the folder that you will store your assignments in. See python notebook 
 Attached Assignment 1 as a folder
 
 Attached Assignment 4 as a .py file
+
+Colab Link for Assignment 4: https://github.com/shivangisrivastava013/eng-ai-agents/tree/main/assignments
